@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":36.82658386230469,"y":1.7887535095214844,"z":35.013423919677737},"rotation":{"x":0.22502481937408448,"y":-0.6465084552764893,"z":0.20839543640613557,"w":0.6986634731292725},"size":28.369592666625978,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":2,"name":"Shaded Wireframe","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":15.466676712036133,"y":-11.750591278076172,"z":24.44812774658203},"rotation":{"x":0.6766120791435242,"y":-0.003520744387060404,"z":0.003255725372582674,"w":0.7364142537117004},"size":73.71680450439453,"orthographic":false}
+>>>>>>> progress
